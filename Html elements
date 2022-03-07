@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Assignment</title>
+
+</head>
+
+<body style="background-color: deepskyblue;">
+    <h1>Html Elements</h1>
+    <code>
+    <ol>
+       <pre>
+        <li>< a ></li>
+        <li>< h1 >-< h6 ></li>
+        <li>< abbr ></li>
+        <li>< img ></li>
+        <li>< span ></li>
+        <li>< br ></li>
+        <li>< strong ></li>
+        <li>< em ></li>
+        <li>< style ></li>
+        <li>< button ></li>
+        <li>< blockquote ></li>
+        <li>< caption ></li>
+        <li>< head ></li>
+        <li>< title ></li>
+        <li>< u ></li>
+        <li>< tr ></li>
+        <li>< var ></li>
+        <li>< ul ></li>
+        <li>< sup ></li>
+        <li>< source ></li>
+        <li>< q ></li>
+        <li>< del ></li>
+        <li>< base ></li>
+        <li>< link ></li>
+        <li>< title ></li>
+        <li>< input ></li>
+        <li>< label ></li>
+        <li>< noscript ></li> 
+            <li>< textarea ></li> 
+                <li>< audio ></li> 
+                    <li>< iframe ></li>
+                         <li>< canvas ></li>
+                                 <li>< object ></li> 
+                                    <li>< select ></li>
+                                         <li>< del ></li>
+                                             <li>< cite ></li>
+                                                 <li>< abbr ></li>
+                                                     <li>< small ></li>
+                                                         <li>< video ></li> 
+            <li>< sup ></li>
+            <li>< mark ></li>
+            <li>< i ></li>
+            <li>< ins ></li>
+            <li>< pre ></li>
+            <li>< bdo ></li>
+            <li>< meter ></li>
+            <li>< nav ></li>
+            <li>< samp ></li>
+            <li>< script ></li>
+            <li>< div ></li>
+            <li>< form ></li>
+            <li>< figure ></li>
+            <li>< footer ></li>
+            <li>< hr ></li>
+        </pre>      
+
+    </ol>
+</code>
+</body>
+
+</html>
