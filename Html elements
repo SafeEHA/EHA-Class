@@ -9,7 +9,7 @@
 
 <body style="background-color: deepskyblue;">
     <h1>Html Elements</h1>
-    <code>
+    
     <ol>
        <pre>
         <li>< a ></li>
@@ -69,7 +69,7 @@
         </pre>      
 
     </ol>
-</code>
+    
 </body>
 
 </html>
