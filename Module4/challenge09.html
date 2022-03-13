@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Cat Clicker</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;  
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Pet me!</h2>
+        <img id="cat-pic" src="https://www.kasandbox.org/programming-images/animals/thumbs/cat.png">
+        <br>
+        
+        <div id="cat-chat"></div>
+        
+        <script>
+
+        var catElement = document.getElementById("cat-pic")
+
+        function catSound(){
+            document.getElementById("cat-chat").innerHTML = "<strong> Meow!!! </strong>"
+        }
+
+        catElement.addEventListener("click", catSound)
+        
+        </script>
+    </body>
+</html>
